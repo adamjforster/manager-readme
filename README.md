@@ -63,4 +63,4 @@ I'm an ice hockey fan (unusually for a Brit, I know) and have held a season tick
 I like single malt scotch whisky and dark ales. I don't drink a lot, one or two units per week (sometimes none), and I strongly dislike being drunk.
 
 [^1]: This is a living document and will therefore change over time. It's also written by a fallible human being. If you notice anything you consider to be inaccurate, please do let me know.
-[^2]: People not taking notes then later forgetting something is a trigger for me.
+[^2]: We all forget things occasionally and taking notes costs very little. Taking, and importantly reading, notes is my number one tip for levelling up.
