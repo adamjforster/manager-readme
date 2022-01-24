@@ -34,6 +34,10 @@ By default I schedule one hour of 1:1 time every four weeks, for each of my dire
 
 Please don't save urgent things for 1:1s.
 
+## Your development
+
+Your personal and career development is down to you. I'm here to support you with guidance and resources. Your goals and the work required to achieve them have to come from you.
+
 ## Feedback
 
 I believe that feedback works best when it's given as it happens. I try to avoid saving it up for 1:1s.
@@ -45,10 +49,6 @@ If you want feedback on a specific behaviour or piece of work please ask for it.
 I want feedback from you. If you think I'm making mistakes I need to know so I can address them. If you think I'm doing something well it's just as important that you share that. I can't promise that I'll always act on it, but I can promise that I'll always listen.
 
 I prefer to give and receive feedback face-to-face (Zoom), but if you don't then Slack or email is also fine.
-
-## Your development
-
-Your personal and career development is down to you. I'm here to support you with guidance and resources. Your goals and the work required to achieve them have to come from you.
 
 ## My schedule
 
