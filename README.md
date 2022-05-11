@@ -10,7 +10,7 @@ Along with hopefully aiding your onboarding it also provides me with an opportun
 
 ## My role
 
-As Head of Software Development I'm here to ensure that our team is happy, doing good quality work, and aligned with the company's goals. On top of that I also write code and help to keep the servers running.
+As Technology Director I'm here to ensure that our teams are happy, doing good quality work, and aligned with the company's goals and values. On top of that I also write code and help to keep the servers running.
 
 ## Expectations
 
@@ -52,7 +52,7 @@ I prefer to give and receive feedback face-to-face (Zoom), but if you don't then
 
 ## My schedule
 
-My typical working hours are 07:45 - 16:15. I always take an hour's lunch, normally at 12:00. I care deeply about work-life balance. I don't read my emails or Slack out-of-hours, so if you need me urgently please call or text.
+My typical working hours are 07:45 - 16:15. I always take an hour's lunch, normally at 12:00. On Tuesdays I work from the office, I usually arrive around 08:45 and leave around 16:45. I care deeply about work-life balance. I don't read my emails or Slack out-of-hours, so if you need me urgently please call or text.
 
 ## My interests
 
