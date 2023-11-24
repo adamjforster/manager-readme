@@ -48,11 +48,11 @@ If you want feedback on a specific behaviour or piece of work please ask for it.
 
 I want feedback from you. If you think I'm making mistakes I need to know so I can address them. If you think I'm doing something well it's just as important that you share that. I can't promise that I'll always act on it, but I can promise that I'll always listen.
 
-I prefer to give and receive feedback face-to-face (Zoom), but if you don't then Slack or email is also fine.
+I prefer to give and receive feedback face-to-face (video), but if you don't then a Teams message or email is also fine.
 
 ## My schedule
 
-My typical working hours are 07:45 - 16:15. I always take an hour's lunch, normally at 12:00. On Tuesdays I work from the office, I usually arrive around 08:45 and leave around 16:45. I care deeply about work-life balance. I don't read my emails or Slack out-of-hours, so if you need me urgently please call or text.
+My typical working hours are 07:45 - 16:15. I always take an hour's lunch, normally at 12:00. On Tuesdays I work from the office, I usually arrive around 08:45 and leave around 16:45. I care deeply about work-life balance. I don't read my emails or Teams messages out-of-hours, so if you need me urgently please call or text.
 
 ## My interests
 
