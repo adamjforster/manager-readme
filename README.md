@@ -56,13 +56,15 @@ My typical working hours are 07:45 - 16:15. I always take an hour's lunch, norma
 
 ## My interests
 
-Reading has been a lifelong passion for me. I typically read about 30 books per year, spanning genres such as science fiction, personal development, and more recently, memoirs.
+Reading has been a lifelong passion for me. I typically read about 30 books per year, spanning genres such as science fiction, personal development, and more recently memoirs.
+
+My core values of curiosity and continual improvement, mean that I'm not happy unless I'm learning something. I've recently started to learn Cymraeg (Welsh); I'm enrolled in a weekly evening course and spend several hours each week on self-study.
+
+A couple of years ago I learned to ride a motorcycle. I can now be found enjoying my limited free time crusing the lanes of Shropshire on my Triumph Speed Twin.
 
 I'm an ice hockey fan and used to hold a season ticket for the Telford Tigers. I still try to make a few games each year and you'd be more than welcome to join me one weekend, especially if you've never seen live hockey before.
 
-Not happy unless I'm learning something new, I've recently taken up motorcycling. I can now be found enjoying my limited free time crusing the lanes of Shropshire on my Triumph Speed Twin.
-
-I like single malt scotch whisky and dark ales. I don't drink a lot, one or two units per week (sometimes none), as I value enjoyment over excess.
+I like single malt Scotch whisky and dark ales. I don't drink a lot, one or two units per week (sometimes none), as I value enjoyment over excess.
 
 [^1]: This is a living document and will therefore change over time. It's also written by a fallible human being. If you notice anything you consider to be inaccurate, please do let me know.
 [^2]: We all forget things occasionally and taking notes costs very little. Taking and reading your own notes is my number one tip for levelling up.
